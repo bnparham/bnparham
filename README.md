@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Computer Science student at the University of Guilan 📚.<br>Passionate Django 🐍 and React ⚛️ developer 🚀<br>Join me on my coding adventures! 💻✨
+👨‍💻 Computer Science student at the University of Guilan 📚.<br>Passionate Django 🐍 developer 🚀<br>Join me on my coding adventures! 💻✨
 
 
 ## 🌐 Socials:
